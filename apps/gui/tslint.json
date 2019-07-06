@@ -1,0 +1,7 @@
+{
+    "extends": "../../tslint.json",
+    "rules": {
+        "directive-selector": [true, "attribute", "organikhub", "camelCase"],
+        "component-selector": [true, "element", "organikhub", "kebab-case"]
+    }
+}
